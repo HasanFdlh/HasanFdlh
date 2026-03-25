@@ -51,20 +51,9 @@
 
 ## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/HasanFdlh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hasanfadlh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/hasan.kiting" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-HasanFdlh-181717?style=for-the-badge&logo=github)](https://github.com/HasanFdlh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HasanFadlillah-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasanfadlh)
+[![Instagram](https://img.shields.io/badge/Instagram-@hasan.kiting-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasan.kiting)
 
 ## ⚡ Fun Fact
 💡 "Code is not just syntax, it's problem solving."
