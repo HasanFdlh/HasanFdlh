@@ -2,14 +2,13 @@
 
 💻 Fullstack Developer  
 🚀 Passionate about Backend, API Integration
-📍 Indonesia  
+📍 Jakarta (Indonesia)  
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working as Fullstack Developer  
-- ⚡ Experienced in Giolang, Laravel, API, Microservices  
-- 🎯 Love building scalable & secure systems  
+
+Backend Developer with practical experience in building and maintaining scalable web applications, specializing in Laravel, Golang, and API Development.
 
 ---
 
@@ -32,6 +31,7 @@
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
 ### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Navicat](https://img.shields.io/badge/Navicat-2F80ED?style=for-the-badge)
@@ -44,8 +44,6 @@
 
 ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanFdlh&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanFdlh&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📫 Connect with Me
@@ -55,5 +53,5 @@
 - [LinkedIn](https://www.linkedin.com/in/hasanfadlh)  
 - [Instagram](https://www.instagram.com/hasan.kiting)  
 
-## ⚡ Fun Fact
-💡 "Code is not just syntax, it's problem solving."
+## 
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together!
