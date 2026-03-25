@@ -1,13 +1,5 @@
 # Hi, I'm Hasan Fadlillah
 
-💻 Fullstack Developer  
-🚀 Passionate about Backend, API Integration
-📍 Jakarta (Indonesia)  
-
----
-
-## 🧑‍💻 About Me
-
 Backend Developer with practical experience in building and maintaining scalable web applications, specializing in Laravel, Golang, and API Development.
 
 ---
