@@ -49,18 +49,22 @@
 
 ---
 
-## 🔥 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HasanFdlh&theme=tokyo-night)
-
----
-
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Hasan-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
-
----
+<p align="left">
+  <a href="https://github.com/HasanFdlh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hasanfadlh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/hasan.kiting" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
+  </a>
+</p>
 
 ## ⚡ Fun Fact
 💡 "Code is not just syntax, it's problem solving."
