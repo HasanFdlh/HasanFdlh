@@ -51,9 +51,9 @@
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github)](https://github.com/HasanFdlh)
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasanFdlh)
 [![GitLab](https://img.shields.io/badge/-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hasan.tecnic)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasanfadlh)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanfadlh)
 [![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasan.kiting)
 
 ## ⚡ Fun Fact
