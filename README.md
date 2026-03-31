@@ -43,7 +43,8 @@ Backend Developer with practical experience in building and maintaining scalable
 - [GitHub](https://github.com/HasanFdlh)  
 - [GitLab](https://gitlab.com/)  
 - [LinkedIn](https://www.linkedin.com/in/hasanfadlh)  
-- [Instagram](https://www.instagram.com/hasan.kiting)  
+- [Instagram](https://www.instagram.com/hasan.kiting)
+- [Website](https://hasanfadillah.com)
 
 ## 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together!
